@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:FF7A59,50:FF9A76,100:FFD3C7&text=🛒%20Amazon%20Sales%20Dashboard%20Analysis&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=40&desc=Interactive%20Business%20Intelligence%20Dashboard&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:FF7A59,100:FFB347&text=Amazon%20Sales%20Analytics%20Dashboard&fontColor=ffffff&fontSize=38&animation=twinkling"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF7A59&center=true&vCenter=true&width=900&lines=Transforming+Raw+Sales+Data+Into+Business+Insights;Interactive+Power+BI+Dashboard;Python+%7C+SQL+%7C+Power+BI;Executive+Sales+Analytics"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF7A59&center=true&vCenter=true&width=900&lines=Transforming+Raw+Sales+Data+Into+Executive+Insights;Python+%7C+SQL+%7C+Power+BI;Interactive+Business+Intelligence+Dashboard"/>
 
 <br>
 
 <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Python-Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-Business%20Queries-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data%20Analytics-Portfolio%20Project-FF7A59?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-Data%20Analytics-FF7A59?style=for-the-badge"/>
 
 </div>
 
@@ -19,174 +19,140 @@
 
 # ✨ Project Overview
 
-This project analyzes Amazon sales data to uncover revenue trends, customer purchasing behavior, product performance, payment preferences, and regional sales using **Python, SQL, and Power BI**.
+This project turns Amazon sales data into a polished business intelligence experience using Python, SQL, and Power BI. It highlights revenue performance, customer behavior, product demand, regional trends, and shipping efficiency in one interactive dashboard.
 
-The dashboard enables business stakeholders to monitor KPIs, identify growth opportunities, and make data-driven decisions through interactive visualizations.
-
----
-
-# 🎯 Objectives
-
-- Analyze overall sales performance
-- Identify top-performing products & categories
-- Understand customer purchasing behavior
-- Monitor regional sales trends
-- Track shipping performance
-- Build an interactive executive dashboard
+The goal is to make complex sales data easy to understand for executives, marketers, and analysts through clear visual storytelling and measurable KPIs.
 
 ---
 
-# 📊 Dashboard KPIs
+## 🚀 What This Dashboard Delivers
 
-<div align="center">
-
-| 💰 Revenue | 📦 Orders | 🛒 Quantity Sold | 📈 Average Order Value |
-|-----------|-----------|-----------------|-----------------------|
-| Executive KPI | Business KPI | Sales KPI | Performance KPI |
-
-| 🚚 Shipping Cost | 💳 Payment Method | ⭐ Top Products | 🌍 Regional Sales |
-|----------------|-----------------|---------------|------------------|
-| Logistics KPI | Customer KPI | Product KPI | Geographic KPI |
-
-</div>
+- Real-time-style executive visibility for sales performance
+- Deep analysis of top products, categories, and customers
+- Geographic insight into high-performing regions and cities
+- Payment and shipping behavior analysis
+- A modern Power BI dashboard designed for decision-making
 
 ---
 
-# 🛠 Technology Stack
+## 🎯 Business Questions Addressed
+
+- Which products generate the highest revenue?
+- Which categories and brands perform best?
+- What are the monthly sales trends?
+- Which payment methods are most commonly used?
+- Which regions contribute the most sales?
+- What is the average shipping cost and how does it impact profitability?
+- Which customers contribute maximum revenue?
+- What are the most important sales KPIs at a glance?
+
+---
+
+## 🛠 Technology Stack
 
 | Tool | Purpose |
 |------|---------|
-| 🐍 Python | Data Cleaning & EDA |
-| 🗄 SQL | Business Queries |
-| 📊 Power BI | Dashboard Development |
-| ⚡ DAX | KPI Calculations |
-| 🔄 Power Query | Data Transformation |
-| 📑 Excel/CSV | Data Source |
+| 🐍 Python | Data cleaning, exploration, and analysis |
+| 🗄 SQL | Querying and business logic |
+| 📊 Power BI | Interactive dashboard and visualization |
+| ⚡ DAX | KPI calculations and measures |
+| 🔄 Power Query | Data transformation |
+| 📁 CSV / Excel | Input dataset format |
 
 ---
 
-# ⚙ Analytics Workflow
+## 🔄 Analytics Workflow
 
 ```mermaid
 flowchart LR
-
-A[Raw Dataset]
--->B[Data Cleaning]
--->C[Python Analysis]
--->D[SQL Queries]
--->E[KPI Creation]
--->F[Power BI Dashboard]
--->G[Business Insights]
+A[Raw Sales Data] --> B[Data Cleaning]
+B --> C[Python Analysis]
+C --> D[SQL Queries]
+D --> E[KPI Measures]
+E --> F[Power BI Dashboard]
+F --> G[Actionable Business Insights]
 ```
 
 ---
 
-# ❓ Business Questions
+## 📊 Key KPIs Covered
 
-- Which products generate the highest sales?
-- Which category performs the best?
-- Which brand sells the most?
-- What are the monthly sales trends?
-- Which payment methods are preferred?
-- Which countries, states, and cities contribute the highest revenue?
-- What is the average shipping cost?
-- Which products receive the highest discounts?
-- Which customers generate maximum revenue?
-- What are the overall sales KPIs?
-
----
-
-# 💡 Key Insights
-
-✅ Identified top-performing products and categories.
-
-✅ Analyzed customer purchasing behavior.
-
-✅ Evaluated payment preferences.
-
-✅ Compared regional sales performance.
-
-✅ Tracked monthly revenue growth.
-
-✅ Measured shipping efficiency.
+| KPI | Focus Area |
+|-----|------------|
+| Revenue | Overall business health |
+| Orders | Sales activity |
+| Quantity Sold | Product demand |
+| Average Order Value | Purchase behavior |
+| Shipping Cost | Logistics efficiency |
+| Payment Method | Customer preferences |
+| Regional Sales | Market performance |
+| Top Products | Product success |
 
 ---
 
-# 📸 Dashboard Preview
+## 📸 Dashboard Preview
 
-## 📈 Executive Overview
+### Executive Overview
+<img src="EXECUTIVE.png" width="100%" alt="Executive dashboard overview" />
 
-<img src="EXECUTIVE.png" width="100%">
+### Product Performance
+<img src="PRODUCT.png" width="100%" alt="Product performance dashboard" />
 
-<br>
+### Customer Insights
+<img src="CUSTOMERS.png" width="100%" alt="Customer insights dashboard" />
 
-## 📦 Product Performance
-
-<img src="PRODUCT.png" width="100%">
-
-<br>
-
-## 👥 Customer Insights
-
-<img src="CUSTOMERS.png" width="100%">
-
-<br>
-
-## 🌍 Regional Sales
-
-<img src="GEOGRAPHY.png" width="100%">
+### Regional Sales
+<img src="GEOGRAPHY.png" width="100%" alt="Regional sales dashboard" />
 
 ---
 
-# 📂 Project Structure
+## 📂 Project Structure
 
 ```text
-Amazon-Sales-Dashboard
-│
-├── Dataset/
-├── SQL/
-├── Python/
-├── Dashboard/
-├── Assets/
-└── README.md
+Amazon-Sales-Analytics-Dashboard/
+├── Amazon.csv
+├── Amazon_data_cleaning.ipynb
+├── amazon_sql.sql
+├── Amazon Sales DAX.pbix
+├── EXECUTIVE.png
+├── PRODUCT.png
+├── CUSTOMERS.png
+├── GEOGRAPHY.png
+├── LICENSE
+├── README.md
 ```
 
 ---
 
-# 🚀 Business Impact
+## 💡 Key Insights
 
-- Improved visibility into sales performance.
-- Identified high-revenue products.
-- Enabled regional sales comparison.
-- Supported strategic decision-making.
-- Simplified KPI monitoring through an interactive dashboard.
-
----
-
-# ⭐ Recruiter Highlights
-
-<div align="center">
-
-| 🐍 Python | 🗄 SQL | 📊 Power BI | 📈 Data Visualization |
-|-----------|---------|------------|----------------------|
-| Data Cleaning | Business Queries | Dashboard | Storytelling |
-
-</div>
+- Identified top-performing products and categories
+- Evaluated customer purchase behavior
+- Compared regional sales performance
+- Analyzed payment preferences and shipping cost impact
+- Built a dashboard suitable for executive reporting and business review
 
 ---
 
+## 🚀 How to Use
+
+1. Open the notebook file to explore the analysis workflow.
+2. Review the SQL queries for business logic and reporting logic.
+3. Open the Power BI file to interact with the dashboard.
+4. Use the screenshots and visuals as a reference for presentation or portfolio sharing.
+
+---
+
+## ⭐ Why This Project Stands Out
+
+This project combines analytical thinking, data storytelling, and dashboard design in a format that is ideal for portfolios, internships, and business analytics roles.
+
 <div align="center">
 
-## 🛒 Amazon Sales Dashboard Analysis
-
-### Data • Analytics • Visualization • Business Intelligence
+### Built with passion for data-driven decision making
 
 <img src="https://img.shields.io/badge/Built%20With-Python-blue?style=for-the-badge&logo=python"/>
 <img src="https://img.shields.io/badge/Powered%20By-SQL-orange?style=for-the-badge&logo=mysql"/>
 <img src="https://img.shields.io/badge/Dashboard-Power%20BI-yellow?style=for-the-badge&logo=powerbi"/>
-
-### ⭐ If you found this project useful, consider giving it a star!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&color=0:FFD3C7,50:FF9A76,100:FF7A59"/>
 
 </div>
